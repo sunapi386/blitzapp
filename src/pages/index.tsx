@@ -8,6 +8,7 @@ import { Routes, BlitzPage } from "@blitzjs/next"
 import styles from "src/styles/Home.module.css"
 import { ImpersonateUserForm } from "src/auth/components/ImpersonateForm"
 import { ImpersonatingUserNotice } from "src/auth/components/ImpersonatingUserNotice"
+import ContractsPage from "./contracts"
 
 /*
  * This file is just for a pleasant getting started page for your new app.
